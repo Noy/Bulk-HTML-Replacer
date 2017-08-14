@@ -49,8 +49,8 @@ e.g.
 	- Asynchronously completing this task (parallel) took just under 3 minutes.
 	  Imagine how long it'd take recursively?
 
-##### Using the [GoQuery](""https://github.com/PuerkitoBio/goquery") lib
+##### Using the [GoQuery]("https://github.com/PuerkitoBio/goquery") lib
 
-##### Credit to [Joey](""https://github.com/Twister915") for the help. (he's the best)
+##### Credit to [Joey]("https://github.com/Twister915") for the help. (he's the best)
 
 ### Hope this fites your needs!
