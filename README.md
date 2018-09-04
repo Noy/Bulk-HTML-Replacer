@@ -53,4 +53,4 @@ e.g.
 
 ##### Credit to [Joey](https://github.com/Twister915) for the help. (he's the best)
 
-### Hope this fites your needs!
+### Hope this fits your needs!
